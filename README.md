@@ -18,7 +18,7 @@
 
 This project was developed entirely using ChatGPT prompt in order to try the power of GPT-4 engine and prompt iteration for code completion and generation.
 
-## [Demo]()
+## [Demo](https://pedrovelasquez9.github.io/lofi-poc/)
 
 ## Join the community
 
